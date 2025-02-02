@@ -17,7 +17,7 @@
     </ul>
     <h2>🚀 Tech Stack</h2>
     <ul>
-        <li><strong>Frontend:</strong> React.js, Redux Toolkit</li>
+        <li><strong>Frontend:</strong> React.js</li>
         <li><strong>Styling:</strong> Tailwind CSS</li>
         <li><strong>State Management:</strong> Redux Toolkit</li>
     </ul>
