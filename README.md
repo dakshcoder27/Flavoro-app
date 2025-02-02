@@ -6,7 +6,7 @@
     
 </head>
 <body>
-    <h1>🍔 Flavoro – Food Ordering App</h1>
+    <h1>🍔 TastyGo – Food Ordering App</h1>
     <p>Flavoro is a modern food ordering web application built using <strong>React.js</strong>, <strong>Redux Toolkit</strong>, and <strong>Tailwind CSS</strong>. It provides a seamless experience for browsing restaurants, adding items to the cart, and placing orders efficiently.</p>
     <h2>✨ Features</h2>
     <ul>
